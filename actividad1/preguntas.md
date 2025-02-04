@@ -68,6 +68,7 @@ cuando se presiona una tecla, las capas de contacto superior e inferior se unen 
 https://www.guiahardware.es/como-funciona-teclado/
 
 C. ¿Cómo se codifican los datos internamente en el computador?
+se codifican en lenguaje binario utilizando secuencias de ceros y unos, el sistema binario es la base todo lo que hace funcionar un computador
 
 D. ¿Cuáles son las unidades de medida de datos en un computador? Bit, Byte, etc.
 Bit: Bit proviene de las palabras Binary Digit o dígito binario. Es la unidad de medida unitaria para para media la capacidad de almacenamiento de una memoria digital, y se representa con la magnitud “b”. El bit es la representación numérica el sistema de numeración binario, el cual trata de representar todos los valores existentes mediante los valores 1 y 0. Y están directamente relacionados con los valores de tensión eléctrica en un sistema.
