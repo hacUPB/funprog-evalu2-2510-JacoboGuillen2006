@@ -1,0 +1,13 @@
+muestre en pantalla los numeros del 10 al -10
+
+inicio
+a = 10
+a = a - 1
+a > -11
+fin
+
+serie de fibonacci
+
+a = 0
+a = a + 1
+a
