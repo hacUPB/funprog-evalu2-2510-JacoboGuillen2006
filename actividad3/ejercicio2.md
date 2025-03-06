@@ -44,4 +44,14 @@ escribir "el precio total a pagar por elviaje es de" total
 fin
 
 
+
+pseudocodigo de estaturas
+
+inicio
+escribir "ingrese el numero de estaturas"
+leer numero
+
+escribir "ingrese cada estatura"
+leer estatur
+
     
