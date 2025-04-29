@@ -54,4 +54,6 @@ leer numero
 escribir "ingrese cada estatura"
 leer estatur
 
-    
+diagrama de serie de fibonacci:
+
+![alt text](./diagramas/fibonacci.jpg)
