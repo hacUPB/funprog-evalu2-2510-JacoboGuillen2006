@@ -9,6 +9,14 @@ distancia = SQRT((x2-x1)*(x2-x1)+(y2-y1)*(y2-y1))
 fin
 
 ```
+| Variable   | Tipo     | Rol      |
+|------------|----------|----------|
+| x1         | real     | Entrada  |
+| x2         | real     | Entrada  |
+| y1         | real     | Entrada  |
+| y2         | real     | Entrada  |
+| distancia  | real     | Salida   |
+
 ![alt text](imagen2.jpg)
 
 ## Ejercicio 2
@@ -24,6 +32,11 @@ medida2 = medida1/0,0254
 fin
 
 ```
+| Variable  | Tipo   | Rol     |
+|-----------|--------|---------|
+| medida1   | real   | Entrada |
+| medida2   | real   | Salida  |
+
 ![alt text](imagen3.jpg)
 
 ## Ejercicio 3
@@ -36,6 +49,12 @@ h=SQRT((a)*(a)+(b)*(b))
 "el valor de la hipotenusa es h"
 fin
 ```
+| Variable | Tipo  | Rol     |
+|----------|-------|---------|
+| a        | real  | Entrada |
+| b        | real  | Entrada |
+| h        | real  | Salida  |
+
 ![alt text](imagen1.jpg)
 
 ## Ejercicio 4
@@ -68,6 +87,17 @@ Fin
 
 ```
 
+| Variable        | Tipo   | Rol     |
+|-----------------|--------|---------|
+| diaNacimiento   | int    | Entrada |
+| mesNacimiento   | int    | Entrada |
+| anioNacimiento  | int    | Entrada |
+| diaActual       | int    | Entrada |
+| mesActual       | int    | Entrada |
+| anioActual      | int    | Entrada |
+| edad            | int    | Salida  |
+
+
 ## Ejercicio 5
 determinar sueldo semanal
 ```
@@ -95,6 +125,12 @@ Escribir "El sueldo semanal es: ", sueldo
 FinSi
 Fin
 ```
+| Variable         | Tipo    | Rol     |
+|------------------|---------|---------|
+| horasTrabajadas  | int     | Entrada |
+| pagoPorHora      | real    | Entrada |
+| sueldo           | real    | Salida  |
+
 
 ## Ejercicio 6
 N cantidades 
@@ -124,8 +160,17 @@ Escribir "Cantidad de números mayores que 0: ", contadorPositivos
 Escribir "Cantidad de números menores que 0: ", contadorNegativos
 FinSi
 Fin
-
 ```
+| Variable           | Tipo   | Rol     |
+|--------------------|--------|---------|
+| contadorCero       | int    | Interna |
+| contadorPositivos  | int    | Interna |
+| contadorNegativos  | int    | Interna |
+| N                  | int    | Entrada |
+| i                  | int    | Interna |
+| numero             | int    | Entrada |
+
+
 
 ## Ejercicio 7
 ahorro de una persona diariamente
@@ -142,3 +187,8 @@ Escribir "El ahorro total en un año es: ", ahorroAnual, " pesos."
 Fin
 
 ```
+| Variable     | Tipo   | Rol     |
+|--------------|--------|---------|
+| ahorroDiario | real   | Interna |
+| ahorroAnual  | real   | Interna |
+| dia          | int    | Interna |

@@ -6,12 +6,17 @@ Id.: 000541481
 
 [Actividad 1](./actividad1/preguntas.md )
 
+
 [Actividad 2.1: C ](./actividad2tiposdedatos/C.md)
+
 
 [Actividad 2.2: Java](./actividad2tiposdedatos/java.md)
 
+
 [Actividad 2.3: Python](./actividad2tiposdedatos/python.md)
 
+
 [Actividad 3](./actividad3/ejercicio1.md)
+
 
 [Pseudocodigos](./retos/retos.md)
